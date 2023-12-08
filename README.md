@@ -1,2 +1,7 @@
-# 3D-portfolio
-Welcome to my humble developer portfolio on GitHub, where I've used Three.js to bring a touch of interactivity to showcase my work. Take a peek into the projects that reflect my coding journey, all presented in a simple and responsive design. Let the code speak for itself, and feel free to explore. 
+# Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
+
+### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
+### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+### [📙 Free Three.js Cheatsheet](https://resource.jsmastery.pro/threejs-cheatsheet)
+### [🌐 Best Hosting for Your Websites](https://hostinger.com/javascript10)
+
