@@ -111,7 +111,7 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Front End Dev",
+        title: "Front End Developer",
         company_name: "Apps Innovation Technologies",
         icon: starbucks,
         iconBg: "#accbe1",
@@ -125,25 +125,23 @@ export const experiences = [
         ],
     },
     {
-        title: "React Developer",
+        title: "Junior Front End Developer",
         company_name: "Information Evolution",
         icon: tesla,
         iconBg: "#fbc3bc",
         date: "January 2021 -September 2021 ",
         points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Built and managed an event booking application with a React front end and a Node.js back end",
+            "Built and managed an event booking application with a React front end and a Node.js back end.",
             "Optimized webpages for better performance and faster loading times",
-            "Integrated third-party APIs to add additional features to the website",
+            "Integrated third-party APIs to add additional features to the website"
         ],
     },
     {
         title: "Web Developer",
-        company_name: "Shopify",
+        company_name: "Freelance",
         icon: shopify,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Jan 2021 - present",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -151,19 +149,19 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
-    {
-        title: "Full stack Developer",
-        company_name: "Meta",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
-        points: [
-            "Developing and maintaining web applications using React.js and other related technologies.",
-            "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-            "Implementing responsive design and ensuring cross-browser compatibility.",
-            "Participating in code reviews and providing constructive feedback to other developers.",
-        ],
-    },
+    // {
+    //     title: "Full stack Developer",
+    //     company_name: "Meta",
+    //     icon: meta,
+    //     iconBg: "#a2d2ff",
+    //     date: "Jan 2023 - Present",
+    //     points: [
+    //         "Developing and maintaining web applications using React.js and other related technologies.",
+    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+    //         "Implementing responsive design and ensuring cross-browser compatibility.",
+    //         "Participating in code reviews and providing constructive feedback to other developers.",
+    //     ],
+    // },
 ];
 
 export const socialLinks = [
@@ -175,12 +173,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/Charliethesage',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://www.linkedin.com/in/ruban-charles-aa1239165/',
     }
 ];
 
