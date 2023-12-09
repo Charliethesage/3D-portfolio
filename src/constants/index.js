@@ -186,16 +186,16 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'Scout',
+        description: 'Developed a web application for the US Government that tracks, monitors, and displays information to officers and officer supervisors. This includes details such as keystrokes, messages, location, MMS, SMS, files, screenshots, screen captures, media, and documents from the phones of parolees and probation prisoners.',
+        link: 'https://rcomscout.com/',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: ' Naval-hydrography Social Media Application',
+        description: 'Created a full-stack Social media application enabling users to post images/videos and engage in conversations.',
+        link: 'https://github.com/Charliethesage/Naval-hydrography',
     },
     {
         iconUrl: car,
