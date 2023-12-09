@@ -26,18 +26,18 @@ const Contact = () => {
     setCurrentAnimation("hit");
 
     emailjs
-      .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
-        {
-          from_name: form.name,
-          to_name: "Ruban Charles",
-          from_email: form.email,
-          to_email: "Rubancharles99@gmail.com",
-          message: form.message,
-        },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
-      )
+    .send(
+     "service_41mlvig", // Replace with your actual service ID
+     "template_b1fzbvu",  // Replace with your actual template ID
+    {
+      from_name: form.name,
+      to_name: "Ruban Charles",
+      from_email: form.email,
+      to_email: "Rubancharles99@gmail.com",
+      message: form.message,
+    },
+    "KIo4f_mYes5FWzgur" // Replace with your actual public key
+    )
       .then(
         () => {
           setLoading(false);
