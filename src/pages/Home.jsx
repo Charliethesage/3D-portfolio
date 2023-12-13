@@ -67,7 +67,7 @@ const Home = () => {
         className={`w-full h-screen bg-transparent ${
           isRotating ? "cursor-grabbing" : "cursor-grab"
         }`}
-        camera={{ near: 0.1, far: 1000 }}
+        camera={{ near: .1, far: 10000 }}
       >
         <Suspense fallback={<Loader />}>
           <directionalLight position={[1, 1, 1]} intensity={2} />
@@ -96,13 +96,15 @@ const Home = () => {
             scale={islandScale}
           />
           <Plane
-            isRotating={isRotating}
+            isRotating={true}
             position={biplanePosition}
             rotation={[0, 20.1, 0]}
             scale={biplaneScale}
           />
         </Suspense>
+        
       </Canvas>
+      
 
       <div className='absolute bottom-2 left-2'>
         <img
@@ -112,6 +114,7 @@ const Home = () => {
           className='w-10 h-10 cursor-pointer object-contain'
         />
       </div>
+      
     </section>
   );
 };

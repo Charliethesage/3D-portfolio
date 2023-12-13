@@ -11,7 +11,10 @@ const HomeInfo = ({ currentStage }) => {
         👋
         <br />
         A Software Engineer from India 🇭🇷
+        <br/>
+        <p className='text-center text-white-200 mt-2'>Explore Haven</p>
       </h1>
+      
     );
 
   if (currentStage === 2) {
