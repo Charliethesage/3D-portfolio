@@ -216,7 +216,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: 'Full Stack Instagram Clone',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        // link: 'https://github.com/adrianhajdin/social_media_app',
+        link:'https://social-app-asaprogrammer.vercel.app/'
     },
     
     {
