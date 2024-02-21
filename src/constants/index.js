@@ -220,7 +220,7 @@ export const projects = [
     },
 
     {
-        iconUrl: summiz,
+        iconUrl: pricewise,
         theme: 'btn-back-yellow',
         name: 'Industry level weather App',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
