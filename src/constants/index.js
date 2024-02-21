@@ -218,6 +218,14 @@ export const projects = [
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
         link:'https://social-app-asaprogrammer.vercel.app/'
     },
+
+    {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'Industry level weather App',
+        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
+        link: 'https://weather-forecast-ten-rust.vercel.app/',
+    },
     
     {
         iconUrl: summiz,
