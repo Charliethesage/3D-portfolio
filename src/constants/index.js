@@ -223,7 +223,7 @@ export const projects = [
         iconUrl: pricewise,
         theme: 'btn-back-yellow',
         name: 'Industry level weather App',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
+        description: 'AThis application integrates with weather service APIs to fetch real-time data, ensuring the information displayed is accurate and up-to-date',
         link: 'https://weather-forecast-ten-rust.vercel.app/',
     },
     
