@@ -158,7 +158,7 @@ export const experiences = [
         points: [
             "Developing and maintaining web applications using Next.js,Nestjs and other related technologies.",
 "Implemented a RESTful API with MongoDB, and ensured code quality with Redux and Jest. Utilized Material UI for a sleek user interface", 
-            "Participating in code reviews and providing constructive feedback to other developers."
+            "Participating in code reviews and providing constructive feedback to other developers.",
              "Optimized webpages for better performance and faster loading times",
         ],
     },
