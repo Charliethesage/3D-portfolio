@@ -141,7 +141,7 @@ export const experiences = [
         company_name: "Freelance",
         icon: shopify,
         iconBg: "#b7e4c7",
-        date: "Jan 2021 - present",
+        date: "Jan 2021 - March 2023",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -149,19 +149,19 @@ export const experiences = [
             "Participating in code reviews and providing constructive feedback to other developers.",
         ],
     },
-    // {
-    //     title: "Full stack Developer",
-    //     company_name: "Meta",
-    //     icon: meta,
-    //     iconBg: "#a2d2ff",
-    //     date: "Jan 2023 - Present",
-    //     points: [
-    //         "Developing and maintaining web applications using React.js and other related technologies.",
-    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //         "Implementing responsive design and ensuring cross-browser compatibility.",
-    //         "Participating in code reviews and providing constructive feedback to other developers.",
-    //     ],
-    // },
+    {
+        title: "Full stack Developer",
+        company_name: "Home.llc",
+        icon: meta,
+        iconBg: "#a2d2ff",
+        date: "March 2023 - Present",
+        points: [
+            "Developing and maintaining web applications using Next.js,Nestjs and other related technologies.",
+"Implemented a RESTful API with MongoDB, and ensured code quality with Redux and Jest. Utilized Material UI for a sleek user interface", 
+            "Participating in code reviews and providing constructive feedback to other developers."
+             "Optimized webpages for better performance and faster loading times",
+        ],
+    },
 ];
 
 export const socialLinks = [
@@ -184,19 +184,34 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: pricewise,
+        iconUrl: snapgram,
         theme: 'btn-back-red',
         name: 'Scout',
-        description: 'Developed a web application for the US Government that tracks, monitors, and displays information to officers and officer supervisors. This includes details such as keystrokes, messages, location, MMS, SMS, files, screenshots, screen captures, media, and documents from the phones of parolees and probation prisoners.',
+        description: 'Developed a web application that tracks, monitors, and displays information of parolees to officers and officer supervisors. This includes details such as keystrokes, messages, location, MMS, SMS, files, screenshots, screen captures, media, and documents from the phones of parolees and probation prisoners.',
         link: 'https://rcomscout.com/',
+    },
+ {
+        iconUrl: pricewise,
+        theme: 'btn-back-yellow',
+        name: 'Home.llc',
+        description: 'A visually appealing and easy-to-navigate website for a realtor + Equity fund management firm based in the US',
+        link: 'https://www.home.llc/',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: ' Naval-hydrography Social Media Application',
-        description: 'Created a full-stack Social media application enabling users to post images/videos and engage in conversations.',
-        link: 'https://github.com/Charliethesage/Naval-hydrography',
+        name: ' Kuru Circus',
+        description: 'A creative portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
+        link: 'https://kurucircus.com/',
     },
+ {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'Pondy Power Sets',
+        description: 'Website for Pondy Powersets Leading in Industrial Metal Fabrication and Power Solutions',
+        link: 'https://pondypowersets.com/',
+    },
+
     {
         iconUrl: car,
         theme: 'btn-back-blue',
@@ -207,31 +222,36 @@ export const projects = [
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
+        name: 'Design Agency',
+        description: ' A clean and professional corporate website designed for a consulting firm, emphasizing their services and client success stories.',
         link: 'https://exequencedesigns.com',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
+        name: 'Social Media App',
         description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
         link:'https://social-app-asaprogrammer.vercel.app/'
     },
-
     {
         iconUrl: pricewise,
         theme: 'btn-back-yellow',
-        name: 'Industry level weather App',
-        description: 'AThis application integrates with weather service APIs to fetch real-time data, ensuring the information displayed is accurate and up-to-date',
+        name: 'weather App',
+        description: 'This application integrates with weather service APIs to fetch real-time data, ensuring the information displayed is accurate and up-to-date',
         link: 'https://weather-forecast-ten-rust.vercel.app/',
+    }, 
+ {
+        iconUrl: car,
+        theme: 'btn-back-yellow',
+        name: 'Ari Jayaprakash',
+        description: 'A creative personal portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
+        link: 'https://arijayaprakash.com/',
     },
-    
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        //link: 'https://github.com/adrianhajdin/project_ai_summarizer',
+        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
     }
 ];
