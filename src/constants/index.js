@@ -183,26 +183,20 @@ export const socialLinks = [
 ];
 
 export const projects = [
-    {
-        iconUrl: snapgram,
-        theme: 'btn-back-red',
-        name: 'Scout',
-        description: 'Developed a web application that tracks, monitors, and displays information of parolees to officers and officer supervisors. This includes details such as keystrokes, messages, location, MMS, SMS, files, screenshots, screen captures, media, and documents from the phones of parolees and probation prisoners.',
-        link: 'https://rcomscout.com/',
-    },
+    
  {
         iconUrl: pricewise,
         theme: 'btn-back-yellow',
         name: 'Home.llc',
-        description: 'A visually appealing and easy-to-navigate website for a realtor + Equity fund management firm based in the US',
+        description: 'A visually appealing and easy-to-navigate website for a realtor + Equity fund management firm based in the california,  US',
         link: 'https://www.home.llc/',
     },
-    {
-        iconUrl: threads,
-        theme: 'btn-back-green',
-        name: ' Kuru Circus',
-        description: 'A creative portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
-        link: 'https://kurucircus.com/',
+{
+        iconUrl: car,
+        theme: 'btn-back-blue',
+        name: 'Fekki',
+        description: 'Designed and built a Clothing brand web app using shopify for Fekki and intergrated Paymentgateway and invetory management system',
+        link: 'https://fekkistore.com/collections/unisex',
     },
  {
         iconUrl: summiz,
@@ -211,42 +205,50 @@ export const projects = [
         description: 'Website for Pondy Powersets Leading in Industrial Metal Fabrication and Power Solutions',
         link: 'https://pondypowersets.com/',
     },
-
     {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: ' Kuru Circus',
+        description: 'A creative portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
+        link: 'https://kurucircus.com/',
+    },
+
+{
         iconUrl: car,
-        theme: 'btn-back-blue',
-        name: 'Fekki',
-        description: 'Designed and built a Clothing brand web app for Fekki and intergrated Paymentgateway',
-        link: 'https://fekkistore.com/collections/unisex',
+        theme: 'btn-back-yellow',
+        name: 'Ari Jayaprakash',
+        description: 'A creative personal portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
+        link: 'https://arijayaprakash.com/',
+    },  
+{
+        iconUrl: snapgram,
+        theme: 'btn-back-red',
+        name: 'Scout',
+        description: 'Developed a web application that tracks, monitors, and displays information of parolees to officers and officer supervisors. This includes details such as keystrokes, messages, location, MMS, SMS, files, screenshots, screen captures, media, and documents from the phones of parolees and probation prisoners.',
+        link: 'https://rcomscout.com/',
     },
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Design Agency',
+        name: 'Exequence designs',
         description: ' A clean and professional corporate website designed for a consulting firm, emphasizing their services and client success stories.',
         link: 'https://exequencedesigns.com',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Social Media App',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link:'https://social-app-asaprogrammer.vercel.app/'
+        name: 'The casue Wear',
+        description: 'Built a website for a NGO that helps recycle PET bottles into wearable t-shirts and donates the profit to the underprivileged.',
+        link:'https://thecausewear.com/'
     },
     {
         iconUrl: pricewise,
         theme: 'btn-back-yellow',
-        name: 'weather App',
+        name: 'weather reporting App',
         description: 'This application integrates with weather service APIs to fetch real-time data, ensuring the information displayed is accurate and up-to-date',
         link: 'https://weather-forecast-ten-rust.vercel.app/',
     }, 
- {
-        iconUrl: car,
-        theme: 'btn-back-yellow',
-        name: 'Ari Jayaprakash',
-        description: 'A creative personal portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
-        link: 'https://arijayaprakash.com/',
-    },
+ 
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
