@@ -198,8 +198,31 @@ export const projects = [
         description: 'Designed and built a Clothing brand web app using shopify for Fekki and intergrated Paymentgateway and invetory management system',
         link: 'https://fekkistore.com/collections/unisex',
     },
- {
+{
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: 'The casue Wear',
+        description: 'Built a website for a NGO that helps recycle PET bottles into wearable t-shirts and donates the profit to the underprivileged.',
+        link:'https://thecausewear.com/'
+    },
+{
         iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'Headstrong Foundation',
+        description: 'To improve the quality of life for cancer patients and their families through providing essential services.',
+        link: 'https://headstrong.org/',
+    },
+
+  {
+        iconUrl: pricewise,
+        theme: 'btn-back-yellow',
+        name: 'Hotel Lake View',
+        description: 'Overlooking the serene Ooty Lake, this website was designed to capture the hotel’s charm and tranquility. With intuitive navigation, stunning visuals, and seamless booking, it reflects the essence of a peaceful getaway in the Nilgiris.',
+        link: 'https://www.hotellakeview.com/',
+    }, 
+
+ {
+        iconUrl: estate,
         theme: 'btn-back-yellow',
         name: 'Pondy Power Sets',
         description: 'Website for Pondy Powersets Leading in Industrial Metal Fabrication and Power Solutions',
@@ -234,13 +257,7 @@ export const projects = [
         description: ' A clean and professional corporate website designed for a consulting firm, emphasizing their services and client success stories.',
         link: 'https://exequencedesigns.com',
     },
-    {
-        iconUrl: snapgram,
-        theme: 'btn-back-pink',
-        name: 'The casue Wear',
-        description: 'Built a website for a NGO that helps recycle PET bottles into wearable t-shirts and donates the profit to the underprivileged.',
-        link:'https://thecausewear.com/'
-    },
+    
     {
         iconUrl: pricewise,
         theme: 'btn-back-yellow',
@@ -249,11 +266,5 @@ export const projects = [
         link: 'https://weather-forecast-ten-rust.vercel.app/',
     }, 
  
-    {
-        iconUrl: summiz,
-        theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
-    }
+    
 ];
