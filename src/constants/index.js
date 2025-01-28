@@ -217,9 +217,7 @@ export const projects = [
         iconUrl: threads,
         theme: 'btn-back-green',
         name: 'Elderra',
-        description: 'I had the privilege of designing and developing the website for Elderra.io, a platform dedicated to helping the senior population adapt to the rapidly changing digital landscape.
-
-The website highlights Elderra's unique solutions, including AI bots and DigiCoach home visits, ensuring the learning process is gentle, inclusive, and tailored to address the everyday challenges elders face.',
+        description: 'I had the privilege of designing and developing the website for Elderra.io, a platform dedicated to helping the senior population adapt to the rapidly changing digital landscape.',
         link: 'https://www.elderra.io/',
     },
   {
