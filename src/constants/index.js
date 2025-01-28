@@ -199,6 +199,14 @@ export const projects = [
         link: 'https://fekkistore.com/collections/unisex',
     },
 {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'Elderra Community',
+        description: 'I developed a dedicated website for Elderra.io that allows users to join WhatsApp groups tailored to specific categories, creating a seamless way for seniors to connect and engage with like-minded communities.',
+        link: 'https://community.elderra.io/',
+    },
+ 
+{
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'The casue Wear',
@@ -206,13 +214,14 @@ export const projects = [
         link:'https://thecausewear.com/'
     },
 {
-        iconUrl: summiz,
-        theme: 'btn-back-yellow',
-        name: 'Headstrong Foundation',
-        description: 'To improve the quality of life for cancer patients and their families through providing essential services.',
-        link: 'https://headstrong.org/',
-    },
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'Elderra',
+        description: 'I had the privilege of designing and developing the website for Elderra.io, a platform dedicated to helping the senior population adapt to the rapidly changing digital landscape.
 
+The website highlights Elderra's unique solutions, including AI bots and DigiCoach home visits, ensuring the learning process is gentle, inclusive, and tailored to address the everyday challenges elders face.',
+        link: 'https://www.elderra.io/',
+    },
   {
         iconUrl: pricewise,
         theme: 'btn-back-yellow',
@@ -228,6 +237,14 @@ export const projects = [
         description: 'Website for Pondy Powersets Leading in Industrial Metal Fabrication and Power Solutions',
         link: 'https://pondypowersets.com/',
     },
+{
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'Vitrag Group',
+        description: 'I collaborated with Vitrag Group, a renowned name in real estate in the Nilgiris, to design their website and showcase their incredible journey since 2002. The platform highlights their commitment to creating gated communities and helping clients fulfill their dream of owning a home in the serene Nilgiris.',
+        link: 'https://vitraggroup.com/',
+    },
+
     {
         iconUrl: threads,
         theme: 'btn-back-green',
@@ -243,6 +260,8 @@ export const projects = [
         description: 'A creative personal portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
         link: 'https://arijayaprakash.com/',
     },  
+
+
 {
         iconUrl: snapgram,
         theme: 'btn-back-red',
