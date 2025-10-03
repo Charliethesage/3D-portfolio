@@ -201,9 +201,44 @@ export const projects = [
 {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
-        name: 'Elderra Community',
-        description: 'I developed a dedicated website for Elderra.io that allows users to join WhatsApp groups tailored to specific categories, creating a seamless way for seniors to connect and engage with like-minded communities.',
-        link: 'https://community.elderra.io/',
+        name: 'Homie LLC',
+        description: 'Homie.llc — A sleek, modern landing site for a global talent-outsourcing startup. Emphasizes their value props (cost efficiency, high caliber “homies,” flexibility) with bold messaging, clean visuals, and intuitive layout.',
+        link: 'https://homie.llc/',
+    },
+    {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'Vitrag Group',
+        description: 'I collaborated with Vitrag Group, a renowned name in real estate in the Nilgiris, to design their website and showcase their incredible journey since 2002. The platform highlights their commitment to creating gated communities and helping clients fulfill their dream of owning a home in the serene Nilgiris.',
+        link: 'https://vitraggroup.com/',
+    },
+    {
+        iconUrl: estate,
+        theme: 'btn-back-yellow',
+        name: 'The Bluehorse Clothing',
+        description: 'The Blue Horse — A clean, compelling e-commerce storefront for a sustainable fashion brand in Colombia. Focused on craftsmanship, eco-friendly messaging, and a smooth shopping experience.',
+        link: 'https://www.thebluehorseclothing.com.co/',
+    },
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-yellow',
+        name: 'Hotel Lake View',
+        description: 'Overlooking the serene Ooty Lake, this website was designed to capture the hotel’s charm and tranquility. With intuitive navigation, stunning visuals, and seamless booking, it reflects the essence of a peaceful getaway in the Nilgiris.',
+        link: 'https://www.hotellakeview.com/',
+    }, 
+    {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'NilgiriScapes',
+        description: 'A beautifully crafted site for a sustainability & conservation conference in the Nilgiris Biosphere Reserve. Clear structure, strong visuals, and easy registration to bring together scientists, NGOs, and local communities.',
+        link: 'https://www.nilgiriscapes.com/',
+    },
+    {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'Nexup Partners',
+        description: ' A clean and professional corporate website designed for a consulting firm, emphasizing their services and client success stories.',
+        link: 'https://www.nexuppartners.com/',
     },
  
 {
@@ -220,67 +255,48 @@ export const projects = [
         description: 'I had the privilege of designing and developing the website for Elderra.io, a platform dedicated to helping the senior population adapt to the rapidly changing digital landscape.',
         link: 'https://www.elderra.io/',
     },
-  {
-        iconUrl: pricewise,
-        theme: 'btn-back-yellow',
-        name: 'Hotel Lake View',
-        description: 'Overlooking the serene Ooty Lake, this website was designed to capture the hotel’s charm and tranquility. With intuitive navigation, stunning visuals, and seamless booking, it reflects the essence of a peaceful getaway in the Nilgiris.',
-        link: 'https://www.hotellakeview.com/',
-    }, 
-
- {
-        iconUrl: estate,
-        theme: 'btn-back-yellow',
-        name: 'Pondy Power Sets',
-        description: 'Website for Pondy Powersets Leading in Industrial Metal Fabrication and Power Solutions',
-        link: 'https://pondypowersets.com/',
-    },
-{
-        iconUrl: summiz,
-        theme: 'btn-back-yellow',
-        name: 'Vitrag Group',
-        description: 'I collaborated with Vitrag Group, a renowned name in real estate in the Nilgiris, to design their website and showcase their incredible journey since 2002. The platform highlights their commitment to creating gated communities and helping clients fulfill their dream of owning a home in the serene Nilgiris.',
-        link: 'https://vitraggroup.com/',
-    },
-
     {
-        iconUrl: threads,
-        theme: 'btn-back-green',
-        name: ' Kuru Circus',
-        description: 'A creative portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
-        link: 'https://kurucircus.com/',
-    },
-
-{
         iconUrl: car,
         theme: 'btn-back-yellow',
-        name: 'Ari Jayaprakash',
-        description: 'A creative personal portfolio site for an artist, showcasing their work with high-quality images and an online gallery and an online store.',
-        link: 'https://arijayaprakash.com/',
+        name: 'Rrope Hospitality',
+        description: 'A refined consultancy website for India’s hospitality sector, covering hotel & resort advisory, kitchen & facility design, pre-opening planning, and franchise tie-ups. Clean visual layout, strong service-overview, aimed at investors and operators.',
+        link: 'https://rropehospitality.com/',
     },  
-
-
-{
+     {
+        iconUrl: snapgram,
+        theme: 'btn-back-red',
+        name: 'Lands & Lands',
+        description: 'A trusted real estate consultancy in Coimbatore with over 15 years of experience. They offer end‑to‑end services including property buying, selling, leasing, layout development, and land approvals, catering to individuals, organizations, and government clients.',
+        link: 'https://www.landsandlands.com/home',
+    },
+  {
+        iconUrl: snapgram,
+        theme: 'btn-back-red',
+        name: 'Peace Houses',
+        description: 'A collection of luxury villas in Jaipur offering elegant stays and private event spaces. Ideal for group getaways, family reunions, or special celebrations, with modern amenities and prime locations near the airport and city center.',
+        link: 'https://peacehouses.com/',
+    },
+    {
         iconUrl: snapgram,
         theme: 'btn-back-red',
         name: 'Scout',
         description: 'Developed a web application that tracks, monitors, and displays information of parolees to officers and officer supervisors. This includes details such as keystrokes, messages, location, MMS, SMS, files, screenshots, screen captures, media, and documents from the phones of parolees and probation prisoners.',
         link: 'https://rcomscout.com/',
     },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'Exequence designs',
-        description: ' A clean and professional corporate website designed for a consulting firm, emphasizing their services and client success stories.',
-        link: 'https://exequencedesigns.com',
-    },
+
+ 
+
+
     
+
+
+
     {
         iconUrl: pricewise,
         theme: 'btn-back-yellow',
-        name: 'weather reporting App',
-        description: 'This application integrates with weather service APIs to fetch real-time data, ensuring the information displayed is accurate and up-to-date',
-        link: 'https://weather-forecast-ten-rust.vercel.app/',
+        name: 'Corbett The Regnum Resort',
+        description: 'A premium 4-star nature retreat in Jim Corbett that blends luxury and wilderness. Elegant rooms, lush amenities (pool, conference hall, multi-cuisine restaurant), and immersive experiences make it ideal for both relaxation and adventure.',
+        link: 'https://corbettregnumresort.com/',
     }, 
  
     
