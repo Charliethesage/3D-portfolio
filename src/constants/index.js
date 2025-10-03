@@ -282,20 +282,6 @@ export const projects = [
         description: 'Developed a web application that tracks, monitors, and displays information of parolees to officers and officer supervisors. This includes details such as keystrokes, messages, location, MMS, SMS, files, screenshots, screen captures, media, and documents from the phones of parolees and probation prisoners.',
         link: 'https://rcomscout.com/',
     },
-      {
-        iconUrl: threads,
-        theme: 'btn-back-green',
-        name: 'NilgiriScapes',
-        description: 'A beautifully crafted site for a sustainability & conservation conference in the Nilgiris Biosphere Reserve. Clear structure, strong visuals, and easy registration to bring together scientists, NGOs, and local communities.',
-        link: 'https://www.nilgiriscapes.com/',
-    },
-
- 
-
-
-    
-
-
 
     {
         iconUrl: pricewise,
@@ -307,5 +293,6 @@ export const projects = [
  
     
 ];
+
 
 
