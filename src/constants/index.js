@@ -181,7 +181,6 @@ export const socialLinks = [
         link: 'https://www.linkedin.com/in/ruban-charles-aa1239165/',
     }
 ];
-
 export const projects = [
     
  {
@@ -308,3 +307,5 @@ export const projects = [
  
     
 ];
+
+
