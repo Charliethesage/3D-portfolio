@@ -216,7 +216,7 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'The Bluehorse Clothing',
         description: 'The Blue Horse — A clean, compelling e-commerce storefront for a sustainable fashion brand in Colombia. Focused on craftsmanship, eco-friendly messaging, and a smooth shopping experience.',
-        link: 'https://www.thebluehorseclothing.com.co/',
+        link: 'https://tbhcolombia.com/',
     },
     {
         iconUrl: pricewise,
@@ -293,6 +293,7 @@ export const projects = [
  
     
 ];
+
 
 
 
