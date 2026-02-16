@@ -182,6 +182,20 @@ export const socialLinks = [
     }
 ];
 export const projects = [
+    {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'Homie LLC',
+        description: '100x.inc is a technology company that helps real-estate enterprises accelerate growth by deploying AI-powered automation to eliminate workflows bottlenecks, cut operational costs, and drive measurable business outcomes',
+        link: 'https://www.100x.inc/',
+    },
+    {
+        iconUrl: snapgram,
+        theme: 'btn-back-pink',
+        name: 'Swamy Associates',
+        description: 'Swamy Associates is a specialized Indian law firm focused on GST, Customs, and indirect tax advisory, compliance, and litigation services for businesses across India.',
+        link:'https://www.swamyassociates.com/'
+    }
     
  {
         iconUrl: pricewise,
@@ -195,15 +209,26 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Fekki',
         description: 'Designed and built a Clothing brand web app using shopify for Fekki and intergrated Paymentgateway and invetory management system',
-        link: 'https://fekkistore.com/collections/unisex',
+        link: 'https://fekkistore.com/',
     },
-{
-        iconUrl: summiz,
+     {
+        iconUrl: estate,
         theme: 'btn-back-yellow',
-        name: 'Homie LLC',
-        description: 'Homie.llc — A sleek, modern landing site for a global talent-outsourcing startup. Emphasizes their value props (cost efficiency, high caliber “homies,” flexibility) with bold messaging, clean visuals, and intuitive layout.',
-        link: 'https://homie.llc/',
+        name: 'The Bluehorse Clothing',
+        description: 'The Blue Horse — A clean, compelling e-commerce storefront for a sustainable fashion brand in Colombia. Focused on craftsmanship, eco-friendly messaging, and a smooth shopping experience.',
+        link: 'https://tbhcolombia.com/',
     },
+
+       {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'NilgiriScapes',
+        description: 'A beautifully crafted site for a sustainability & conservation conference in the Nilgiris Biosphere Reserve. Clear structure, strong visuals, and easy registration to bring together scientists, NGOs, and local communities.',
+        link: 'https://www.nilgiriscapes.com/',
+    },
+
+    ,
+    
     {
         iconUrl: summiz,
         theme: 'btn-back-yellow',
@@ -211,27 +236,9 @@ export const projects = [
         description: 'I collaborated with Vitrag Group, a renowned name in real estate in the Nilgiris, to design their website and showcase their incredible journey since 2002. The platform highlights their commitment to creating gated communities and helping clients fulfill their dream of owning a home in the serene Nilgiris.',
         link: 'https://vitraggroup.com/',
     },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-yellow',
-        name: 'The Bluehorse Clothing',
-        description: 'The Blue Horse — A clean, compelling e-commerce storefront for a sustainable fashion brand in Colombia. Focused on craftsmanship, eco-friendly messaging, and a smooth shopping experience.',
-        link: 'https://tbhcolombia.com/',
-    },
-    {
-        iconUrl: pricewise,
-        theme: 'btn-back-yellow',
-        name: 'Hotel Lake View',
-        description: 'Overlooking the serene Ooty Lake, this website was designed to capture the hotel’s charm and tranquility. With intuitive navigation, stunning visuals, and seamless booking, it reflects the essence of a peaceful getaway in the Nilgiris.',
-        link: 'https://www.hotellakeview.com/',
-    }, 
-    {
-        iconUrl: threads,
-        theme: 'btn-back-green',
-        name: 'NilgiriScapes',
-        description: 'A beautifully crafted site for a sustainability & conservation conference in the Nilgiris Biosphere Reserve. Clear structure, strong visuals, and easy registration to bring together scientists, NGOs, and local communities.',
-        link: 'https://www.nilgiriscapes.com/',
-    },
+   
+     
+
     {
         iconUrl: estate,
         theme: 'btn-back-black',
@@ -293,6 +300,7 @@ export const projects = [
  
     
 ];
+
 
 
 
