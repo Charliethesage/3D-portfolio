@@ -195,7 +195,7 @@ export const projects = [
         name: 'Swamy Associates',
         description: 'Swamy Associates is a specialized Indian law firm focused on GST, Customs, and indirect tax advisory, compliance, and litigation services for businesses across India.',
         link:'https://www.swamyassociates.com/'
-    }
+    },
     
  {
         iconUrl: pricewise,
@@ -226,8 +226,6 @@ export const projects = [
         description: 'A beautifully crafted site for a sustainability & conservation conference in the Nilgiris Biosphere Reserve. Clear structure, strong visuals, and easy registration to bring together scientists, NGOs, and local communities.',
         link: 'https://www.nilgiriscapes.com/',
     },
-
-    ,
     
     {
         iconUrl: summiz,
@@ -300,6 +298,7 @@ export const projects = [
  
     
 ];
+
 
 
 
